@@ -7,4 +7,4 @@ revise all cisco basics including:
 
 Screenchots of the functionality/Testing -
 
-![ADDRESSING](images/ADDRESSING.png) 
+![ADDRESSING](./images/ADDRESSING.png) 
