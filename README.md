@@ -4,7 +4,6 @@ The documentation for these projects will be brief.
 
 Also provides revision for CCNA
 
-----
 Documentation for each lab will include:
 - list of objectives
 - screenshots of evidence objectives have been met
